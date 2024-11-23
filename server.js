@@ -2,6 +2,7 @@ import express from "express";
 
 import routes from "./src/routes/postsRoutes.js";
 
+
 // **Portuguese:** Cria uma nova instância do servidor Express.
 // **English:** Creates a new instance of the Express server.
 const app = express();
